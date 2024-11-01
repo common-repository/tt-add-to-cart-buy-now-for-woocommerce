@@ -1,0 +1,17 @@
+button.single_add_to_cart_button:before {
+   display: inline-block;
+   font-family: Dashicons;
+   float: left;
+   content: "\f174";
+   font-weight: 300;
+   margin-right: 1em;
+}
+
+a.add_to_cart_button:before {
+   display: inline-block;
+   font-family: Dashicons;
+   float: left;
+   content: "\f174";
+   font-weight: 300;
+   margin-right: 1em;
+}
